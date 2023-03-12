@@ -7,3 +7,51 @@
     text-decoration: none;
     color: white;
 }
+.navbar{
+    font-size: 20px;
+    padding: 5px;
+}
+.navbar img{
+    height: 150px;
+    width: 150px;
+}
+.navbar ul{
+    list-style-type: none;
+    display: flex;
+}
+.navbar a{
+    text-decoration: none;
+    padding: 20px;
+    color: black;
+}
+.image{
+   display: inline-block;
+   text-align: center;
+   margin-left: 600px;
+   margin-top: 200px;
+}
+.image h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 65px;
+}
+.image p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: grey;
+}
+.image button{
+    border: solid black;
+    border-radius: 40px;
+    padding: 20px;
+    padding-inline: 60px;
+    background-color: transparent;
+    color: black;
+}
+.container{
+    display: flex;  
+    padding-top: 250px;
+}
+.container p{
+    font-size: 23px;
+}
+
